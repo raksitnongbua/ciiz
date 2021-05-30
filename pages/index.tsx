@@ -1,7 +1,9 @@
 const Home = () => {
   return (
     <div>
-      <h2>WELCOME TO CIIZ'S WORLD</h2>
+      <div className='gradient-animation flex justify-center items-center'>
+        <p className='text-9xl font-sans'>CIIZ</p>
+      </div>
     </div>
   );
 };
